@@ -1,0 +1,1 @@
+﻿[{"Name":"Kitchen","InventoryItems":[{"Name":"Tomatoes","Conversions":[{"MeasurementName":"Eaches","ConversionRate":30},{"MeasurementName":"Crates","ConversionRate":-1}],"Amounts":[{"MeasurementName":"Eaches","InventoryAmount":0.0},{"MeasurementName":"Crates","InventoryAmount":0.0}]}]}]
